@@ -1,6 +1,9 @@
 
 
 <html>
+<head>
+<link rel="stylesheet" style="mincraft_design_css.css">
+</head>
     <body>
         <main class="basik">
         <h1> MINECRAFT DESIGN </h1>
